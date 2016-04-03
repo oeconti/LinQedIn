@@ -1,2 +1,3 @@
-# LinQedIn
-Progetto realizzato per il corso di Programmazione ad Oggetti (A.S. 2014/2015 - Università di Padova)
+# LinQedin
+
+A simple project inspired to LinkedIn written in C++ using the Qt Framework.

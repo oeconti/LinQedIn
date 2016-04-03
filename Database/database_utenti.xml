@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Utenti>
+    <Utente>
+        <UtenteBase>
+            <DatiAnagrafici>
+                <username>elisa@gmail.com</username>
+                <password>pass</password>
+                <sesso>0</sesso>
+                <nome>Elisa</nome>
+                <cognome>Cusinato</cognome>
+                <dataNascita>1988.02.01</dataNascita>
+                <Residenza>
+                    <via>N.S</via>
+                    <citta>Padova</citta>
+                    <provincia>PD</provincia>
+                    <nazione>Italia</nazione>
+                </Residenza>
+            </DatiAnagrafici>
+            <EsperienzeProfessionali>
+                <EsperienzaProfessionale>
+                    <nomeAzienda>Deflex S.r.l</nomeAzienda>
+                    <qualifica>Traduttore</qualifica>
+                    <inizioEsperienza>2011.01.01</inizioEsperienza>
+                    <fineEsperienza>2100.01.01</fineEsperienza>
+                    <Luogo>
+                        <via>N.S</via>
+                        <citta>Padova</citta>
+                        <provincia>PD</provincia>
+                        <nazione>Italia </nazione>
+                    </Luogo>
+                    <descrizione>Traduzione di testi e opere su commissione.
+Traduzione in simultanea di congressi e conferenze.</descrizione>
+                </EsperienzaProfessionale>
+            </EsperienzeProfessionali>
+            <EsperienzeScolastiche>
+                <EsperienzaScolastica>
+                    <nomeScuola>ITC Padovano</nomeScuola>
+                    <gradoScuola>Superiore</gradoScuola>
+                    <titoloStudio>Perito aziendale corrispondente in lingue estere</titoloStudio>
+                    <inizioEsperienza>2002.01.01</inizioEsperienza>
+                    <fineEsperienza>2007.01.01</fineEsperienza>
+                    <Luogo>
+                        <via>N.S</via>
+                        <citta>Padova</citta>
+                        <provincia>PD</provincia>
+                        <nazione>Italia</nazione>
+                    </Luogo>
+                    <descrizione>Voto di maturità: 87/100</descrizione>
+                </EsperienzaScolastica>
+            </EsperienzeScolastiche>
+            <AbilitaPossedute>
+                <Abilita>
+                    <nomeAbilita>Html</nomeAbilita>
+                    <descrizioneAbilita>Conoscenze di base del linguaggio html. </descrizioneAbilita>
+                </Abilita>
+            </AbilitaPossedute>
+            <LingueParlate>
+                <Lingua>
+                    <nomeLingua>Francesce</nomeLingua>
+                    <livelloCompetenzaLinguistica>C2</livelloCompetenzaLinguistica>
+                </Lingua>
+                <Lingua>
+                    <nomeLingua>Inglese</nomeLingua>
+                    <livelloCompetenzaLinguistica>C2</livelloCompetenzaLinguistica>
+                </Lingua>
+                <Lingua>
+                    <nomeLingua>Tedesco</nomeLingua>
+                    <livelloCompetenzaLinguistica>B2</livelloCompetenzaLinguistica>
+                </Lingua>
+            </LingueParlate>
+        </UtenteBase>
+    </Utente>
+    <Utente>
+        <UtenteExecutive>
+            <DatiAnagrafici>
+                <username>filippo@libero.it</username>
+                <password>pass</password>
+                <sesso>1</sesso>
+                <nome>Filippo</nome>
+                <cognome>Marcon</cognome>
+                <dataNascita>1980.08.01</dataNascita>
+                <Residenza>
+                    <via>N.S</via>
+                    <citta>Udine</citta>
+                    <provincia>UD</provincia>
+                    <nazione>Italia</nazione>
+                </Residenza>
+            </DatiAnagrafici>
+            <EsperienzeProfessionali>
+                <EsperienzaProfessionale>
+                    <nomeAzienda>Fisep S.r.l.</nomeAzienda>
+                    <qualifica>Media buyer</qualifica>
+                    <inizioEsperienza>2004.09.01</inizioEsperienza>
+                    <fineEsperienza>2100.01.01</fineEsperienza>
+                    <Luogo>
+                        <via>N:S</via>
+                        <citta>Roma</citta>
+                        <provincia>RO</provincia>
+                        <nazione>Italia</nazione>
+                    </Luogo>
+                    <descrizione>Gestione dell'aspetto economico per l'acquisto di spazi pubblicitari sui vari media.
+</descrizione>
+                </EsperienzaProfessionale>
+            </EsperienzeProfessionali>
+            <EsperienzeScolastiche>
+                <EsperienzaScolastica>
+                    <nomeScuola>Università degli studi di Firenze</nomeScuola>
+                    <gradoScuola>Laurea Triennale </gradoScuola>
+                    <titoloStudio>Laurea Triennale in Comunicazione</titoloStudio>
+                    <inizioEsperienza>2000.09.01</inizioEsperienza>
+                    <fineEsperienza>2003.01.01</fineEsperienza>
+                    <Luogo>
+                        <via>N.S</via>
+                        <citta>Firenze</citta>
+                        <provincia>FI</provincia>
+                        <nazione>Italia</nazione>
+                    </Luogo>
+                    <descrizione>Voto conseguito alla laurea: 110 e lode</descrizione>
+                </EsperienzaScolastica>
+            </EsperienzeScolastiche>
+            <AbilitaPossedute>
+                <Abilita>
+                    <nomeAbilita>Conoscenza di programmi editing per grafica e design</nomeAbilita>
+                    <descrizioneAbilita>Vaste abilità nell'utilizzo di programmi di editing per la grafica ed il design, anche a livello professionale.</descrizioneAbilita>
+                </Abilita>
+            </AbilitaPossedute>
+            <LingueParlate>
+                <Lingua>
+                    <nomeLingua>Inglese</nomeLingua>
+                    <livelloCompetenzaLinguistica>B1</livelloCompetenzaLinguistica>
+                </Lingua>
+            </LingueParlate>
+        </UtenteExecutive>
+    </Utente>
+    <Utente>
+        <UtenteBusiness>
+            <DatiAnagrafici>
+                <username>gabriele@virgilio.it</username>
+                <password>pass</password>
+                <sesso>1</sesso>
+                <nome>Gabriele</nome>
+                <cognome>Rizzo</cognome>
+                <dataNascita>1990.02.01</dataNascita>
+                <Residenza>
+                    <via>N.S</via>
+                    <citta>Roma</citta>
+                    <provincia>RO</provincia>
+                    <nazione>Italia</nazione>
+                </Residenza>
+            </DatiAnagrafici>
+            <EsperienzeProfessionali>
+                <EsperienzaProfessionale>
+                    <nomeAzienda>Architetturali S.p.A</nomeAzienda>
+                    <qualifica>Architetto </qualifica>
+                    <inizioEsperienza>2014.01.01</inizioEsperienza>
+                    <fineEsperienza>2100.01.01</fineEsperienza>
+                    <Luogo>
+                        <via>N:S</via>
+                        <citta>Torino</citta>
+                        <provincia>TO</provincia>
+                        <nazione>Italia</nazione>
+                    </Luogo>
+                    <descrizione>Ideazione e sviluppo di progetti di architettura per privati. </descrizione>
+                </EsperienzaProfessionale>
+            </EsperienzeProfessionali>
+            <EsperienzeScolastiche>
+                <EsperienzaScolastica>
+                    <nomeScuola>Università degli studi di Bologna</nomeScuola>
+                    <gradoScuola>Laurea Triennale</gradoScuola>
+                    <titoloStudio>Laurea Triennale in Architettura</titoloStudio>
+                    <inizioEsperienza>2010.09.01</inizioEsperienza>
+                    <fineEsperienza>2014.01.01</fineEsperienza>
+                    <Luogo>
+                        <via>N.S</via>
+                        <citta>Bologna</citta>
+                        <provincia>BO</provincia>
+                        <nazione>Italia</nazione>
+                    </Luogo>
+                    <descrizione>Voto conseguito alla Laurea: 105</descrizione>
+                </EsperienzaScolastica>
+            </EsperienzeScolastiche>
+            <AbilitaPossedute>
+                <Abilita>
+                    <nomeAbilita>Utilizzo di Autocad </nomeAbilita>
+                    <descrizioneAbilita>Utilizzo a livello professionale il programma Autocad.</descrizioneAbilita>
+                </Abilita>
+            </AbilitaPossedute>
+            <LingueParlate>
+                <Lingua>
+                    <nomeLingua>Croato</nomeLingua>
+                    <livelloCompetenzaLinguistica>Lingua madre</livelloCompetenzaLinguistica>
+                </Lingua>
+                <Lingua>
+                    <nomeLingua>Inglese</nomeLingua>
+                    <livelloCompetenzaLinguistica>C1</livelloCompetenzaLinguistica>
+                </Lingua>
+            </LingueParlate>
+        </UtenteBusiness>
+    </Utente>
+    <Utente>
+        <UtenteExecutive>
+            <DatiAnagrafici>
+                <username>giorgia@gmail.com</username>
+                <password>pass</password>
+                <sesso>0</sesso>
+                <nome>Giorgia</nome>
+                <cognome>Frisol</cognome>
+                <dataNascita>1985.07.01</dataNascita>
+                <Residenza>
+                    <via>N.S</via>
+                    <citta>Venezia</citta>
+                    <provincia>VE</provincia>
+                    <nazione>Italia</nazione>
+                </Residenza>
+            </DatiAnagrafici>
+            <EsperienzeProfessionali>
+                <EsperienzaProfessionale>
+                    <nomeAzienda>Periscopes S.r.l</nomeAzienda>
+                    <qualifica>Responsabile Amministrativo</qualifica>
+                    <inizioEsperienza>2006.10.17</inizioEsperienza>
+                    <fineEsperienza>2014.10.31</fineEsperienza>
+                    <Luogo>
+                        <via>N.S</via>
+                        <citta>Napoli</citta>
+                        <provincia>NA</provincia>
+                        <nazione>Italia</nazione>
+                    </Luogo>
+                    <descrizione>Amministrazione dell'ufficio contabilità dell'azienda. 
+</descrizione>
+                </EsperienzaProfessionale>
+                <EsperienzaProfessionale>
+                    <nomeAzienda>Contabili S.r.l.</nomeAzienda>
+                    <qualifica>Ragioniere</qualifica>
+                    <inizioEsperienza>2005.01.20</inizioEsperienza>
+                    <fineEsperienza>2006.06.01</fineEsperienza>
+                    <Luogo>
+                        <via>N.S</via>
+                        <citta>Livorno</citta>
+                        <provincia>LI</provincia>
+                        <nazione>Italia</nazione>
+                    </Luogo>
+                    <descrizione>Gestione della contabilità aziendale dell'azienda. </descrizione>
+                </EsperienzaProfessionale>
+            </EsperienzeProfessionali>
+            <EsperienzeScolastiche>
+                <EsperienzaScolastica>
+                    <nomeScuola>Istituto tecnico commerciale di Milano</nomeScuola>
+                    <gradoScuola>Superiore</gradoScuola>
+                    <titoloStudio>Perito aziendale </titoloStudio>
+                    <inizioEsperienza>2000.09.01</inizioEsperienza>
+                    <fineEsperienza>2005.08.20</fineEsperienza>
+                    <Luogo>
+                        <via>N.S</via>
+                        <citta>Milano</citta>
+                        <provincia>MI</provincia>
+                        <nazione>Italia </nazione>
+                    </Luogo>
+                    <descrizione>Voto conseguito alla maturità : 75/ 100</descrizione>
+                </EsperienzaScolastica>
+            </EsperienzeScolastiche>
+            <AbilitaPossedute>
+                <Abilita>
+                    <nomeAbilita>Traduzione linguistica </nomeAbilita>
+                    <descrizioneAbilita>Ottime abilità di traduzione linguistica in lingua spagnola ed inglese.</descrizioneAbilita>
+                </Abilita>
+            </AbilitaPossedute>
+            <LingueParlate>
+                <Lingua>
+                    <nomeLingua>Inglese</nomeLingua>
+                    <livelloCompetenzaLinguistica>C1</livelloCompetenzaLinguistica>
+                </Lingua>
+                <Lingua>
+                    <nomeLingua>Russo</nomeLingua>
+                    <livelloCompetenzaLinguistica>A2</livelloCompetenzaLinguistica>
+                </Lingua>
+                <Lingua>
+                    <nomeLingua>Spagnolo</nomeLingua>
+                    <livelloCompetenzaLinguistica>C2</livelloCompetenzaLinguistica>
+                </Lingua>
+            </LingueParlate>
+        </UtenteExecutive>
+    </Utente>
+    <Utente>
+        <UtenteBusiness>
+            <DatiAnagrafici>
+                <username>giovanni@gmail.com</username>
+                <password>pass</password>
+                <sesso>1</sesso>
+                <nome>Giovanni</nome>
+                <cognome>Da Pos</cognome>
+                <dataNascita>1980.06.01</dataNascita>
+                <Residenza>
+                    <via>N.S</via>
+                    <citta>Treviso</citta>
+                    <provincia>TV</provincia>
+                    <nazione>Italia</nazione>
+                </Residenza>
+            </DatiAnagrafici>
+            <EsperienzeProfessionali>
+                <EsperienzaProfessionale>
+                    <nomeAzienda>Ristorante al lago</nomeAzienda>
+                    <qualifica>Cameriere</qualifica>
+                    <inizioEsperienza>2011.02.27</inizioEsperienza>
+                    <fineEsperienza>2100.01.01</fineEsperienza>
+                    <Luogo>
+                        <via>N.S</via>
+                        <citta>Pisa</citta>
+                        <provincia>PI</provincia>
+                        <nazione>Italia</nazione>
+                    </Luogo>
+                    <descrizione>Ordinazione di cibi e bevande; servizio di cassa</descrizione>
+                </EsperienzaProfessionale>
+                <EsperienzaProfessionale>
+                    <nomeAzienda>Pizzeria al Cortile </nomeAzienda>
+                    <qualifica>Cameriere </qualifica>
+                    <inizioEsperienza>2000.01.19</inizioEsperienza>
+                    <fineEsperienza>2010.05.21</fineEsperienza>
+                    <Luogo>
+                        <via>N.S</via>
+                        <citta>Lucca</citta>
+                        <provincia>LU </provincia>
+                        <nazione>Italia</nazione>
+                    </Luogo>
+                    <descrizione>Accoglienza dei clienti; servizio ai tavoli; servizio di cassa</descrizione>
+                </EsperienzaProfessionale>
+            </EsperienzeProfessionali>
+            <EsperienzeScolastiche>
+                <EsperienzaScolastica>
+                    <nomeScuola>ITIS di Ravenna</nomeScuola>
+                    <gradoScuola>Superiore</gradoScuola>
+                    <titoloStudio>Perito meccanico</titoloStudio>
+                    <inizioEsperienza>1995.07.01</inizioEsperienza>
+                    <fineEsperienza>2000.08.30</fineEsperienza>
+                    <Luogo>
+                        <via>N.S</via>
+                        <citta>Ravenna</citta>
+                        <provincia>RA</provincia>
+                        <nazione>Italia</nazione>
+                    </Luogo>
+                    <descrizione>Voto conseguito alla maturità : 70/100</descrizione>
+                </EsperienzaScolastica>
+            </EsperienzeScolastiche>
+            <AbilitaPossedute/>
+            <LingueParlate>
+                <Lingua>
+                    <nomeLingua>Inglese</nomeLingua>
+                    <livelloCompetenzaLinguistica>C1</livelloCompetenzaLinguistica>
+                </Lingua>
+                <Lingua>
+                    <nomeLingua>Portoghese</nomeLingua>
+                    <livelloCompetenzaLinguistica>B2</livelloCompetenzaLinguistica>
+                </Lingua>
+            </LingueParlate>
+        </UtenteBusiness>
+    </Utente>
+    <Utente>
+        <UtenteBase>
+            <DatiAnagrafici>
+                <username>giulia@gmail.com</username>
+                <password>pass</password>
+                <sesso>0</sesso>
+                <nome>Giulia</nome>
+                <cognome>Conti</cognome>
+                <dataNascita>1990.10.01</dataNascita>
+                <Residenza>
+                    <via>N.S</via>
+                    <citta>Treviso</citta>
+                    <provincia>TV</provincia>
+                    <nazione>Italia</nazione>
+                </Residenza>
+            </DatiAnagrafici>
+            <EsperienzeProfessionali>
+                <EsperienzaProfessionale>
+                    <nomeAzienda>Hfarm </nomeAzienda>
+                    <qualifica>producer stampa</qualifica>
+                    <inizioEsperienza>2014.01.18</inizioEsperienza>
+                    <fineEsperienza>2100.01.01</fineEsperienza>
+                    <Luogo>
+                        <via>N.S</via>
+                        <citta>Padova</citta>
+                        <provincia>PD</provincia>
+                        <nazione>Italia</nazione>
+                    </Luogo>
+                    <descrizione>Produzioni di testi per le campagne pubblicitarie; collaborazione con l'ufficio marketing</descrizione>
+                </EsperienzaProfessionale>
+            </EsperienzeProfessionali>
+            <EsperienzeScolastiche>
+                <EsperienzaScolastica>
+                    <nomeScuola>Università degli studi di Vicenza</nomeScuola>
+                    <gradoScuola>Laurea triennale</gradoScuola>
+                    <titoloStudio>Laurea triennale in comunicazione</titoloStudio>
+                    <inizioEsperienza>2010.01.01</inizioEsperienza>
+                    <fineEsperienza>2013.01.01</fineEsperienza>
+                    <Luogo>
+                        <via>N.S</via>
+                        <citta>Vicenza</citta>
+                        <provincia>VI</provincia>
+                        <nazione>Italia</nazione>
+                    </Luogo>
+                    <descrizione>Voto conseguito alla laurea: 100</descrizione>
+                </EsperienzaScolastica>
+            </EsperienzeScolastiche>
+            <AbilitaPossedute>
+                <Abilita>
+                    <nomeAbilita>Html</nomeAbilita>
+                    <descrizioneAbilita>Conoscenze di base del linguaggio html</descrizioneAbilita>
+                </Abilita>
+                <Abilita>
+                    <nomeAbilita>Pacchetto Office</nomeAbilita>
+                    <descrizioneAbilita>Buona conoscenza dei principali software del pacchetto Office</descrizioneAbilita>
+                </Abilita>
+            </AbilitaPossedute>
+            <LingueParlate>
+                <Lingua>
+                    <nomeLingua>Francese</nomeLingua>
+                    <livelloCompetenzaLinguistica>C1</livelloCompetenzaLinguistica>
+                </Lingua>
+                <Lingua>
+                    <nomeLingua>Inglese</nomeLingua>
+                    <livelloCompetenzaLinguistica>B2</livelloCompetenzaLinguistica>
+                </Lingua>
+                <Lingua>
+                    <nomeLingua>Spagnolo</nomeLingua>
+                    <livelloCompetenzaLinguistica>A1</livelloCompetenzaLinguistica>
+                </Lingua>
+                <Lingua>
+                    <nomeLingua>Tedesco</nomeLingua>
+                    <livelloCompetenzaLinguistica>B1</livelloCompetenzaLinguistica>
+                </Lingua>
+            </LingueParlate>
+        </UtenteBase>
+    </Utente>
+    <Utente>
+        <UtenteBusiness>
+            <DatiAnagrafici>
+                <username>lara@gmail.com</username>
+                <password>pass</password>
+                <sesso>0</sesso>
+                <nome>Lara</nome>
+                <cognome>Piasentin</cognome>
+                <dataNascita>1992.06.01</dataNascita>
+                <Residenza>
+                    <via>N.S</via>
+                    <citta>Venezia</citta>
+                    <provincia>VE</provincia>
+                    <nazione>Italia</nazione>
+                </Residenza>
+            </DatiAnagrafici>
+            <EsperienzeProfessionali>
+                <EsperienzaProfessionale>
+                    <nomeAzienda>Express s.r.l</nomeAzienda>
+                    <qualifica>Programmatore informatico</qualifica>
+                    <inizioEsperienza>2012.01.08</inizioEsperienza>
+                    <fineEsperienza>2014.06.01</fineEsperienza>
+                    <Luogo>
+                        <via>N.S</via>
+                        <citta>Venezia</citta>
+                        <provincia>VE</provincia>
+                        <nazione>Italia</nazione>
+                    </Luogo>
+                    <descrizione>Progettazione e sviluppo di software in linguaggio c++.
+</descrizione>
+                </EsperienzaProfessionale>
+            </EsperienzeProfessionali>
+            <EsperienzeScolastiche>
+                <EsperienzaScolastica>
+                    <nomeScuola>ITIS Veneziano</nomeScuola>
+                    <gradoScuola>Superiore</gradoScuola>
+                    <titoloStudio>Perito informatico</titoloStudio>
+                    <inizioEsperienza>2007.01.01</inizioEsperienza>
+                    <fineEsperienza>2012.01.01</fineEsperienza>
+                    <Luogo>
+                        <via>N.S</via>
+                        <citta>Venezia</citta>
+                        <provincia>VE</provincia>
+                        <nazione>Italia</nazione>
+                    </Luogo>
+                    <descrizione>Voto di maturità: 98/100</descrizione>
+                </EsperienzaScolastica>
+            </EsperienzeScolastiche>
+            <AbilitaPossedute>
+                <Abilita>
+                    <nomeAbilita>Programmazione Java</nomeAbilita>
+                    <descrizioneAbilita>Buone conoscenze nello sviluppo di applicazioni in Java</descrizioneAbilita>
+                </Abilita>
+                <Abilita>
+                    <nomeAbilita>Programmazione c++</nomeAbilita>
+                    <descrizioneAbilita>Ottime conoscenze nella progettazione e nello sviluppo di applicazioni in c++</descrizioneAbilita>
+                </Abilita>
+            </AbilitaPossedute>
+            <LingueParlate>
+                <Lingua>
+                    <nomeLingua>Francese</nomeLingua>
+                    <livelloCompetenzaLinguistica>C1</livelloCompetenzaLinguistica>
+                </Lingua>
+                <Lingua>
+                    <nomeLingua>Inglese</nomeLingua>
+                    <livelloCompetenzaLinguistica>B2</livelloCompetenzaLinguistica>
+                </Lingua>
+            </LingueParlate>
+        </UtenteBusiness>
+    </Utente>
+    <Utente>
+        <UtenteBase>
+            <DatiAnagrafici>
+                <username>luca@gmail.com</username>
+                <password>pass</password>
+                <sesso>1</sesso>
+                <nome>Luca</nome>
+                <cognome>Piai</cognome>
+                <dataNascita>1994.04.01</dataNascita>
+                <Residenza>
+                    <via>N.S</via>
+                    <citta>Padova</citta>
+                    <provincia>PD</provincia>
+                    <nazione>Italia</nazione>
+                </Residenza>
+            </DatiAnagrafici>
+            <EsperienzeProfessionali>
+                <EsperienzaProfessionale>
+                    <nomeAzienda>Pasticceria Sole</nomeAzienda>
+                    <qualifica>Pasticcere</qualifica>
+                    <inizioEsperienza>2013.07.28</inizioEsperienza>
+                    <fineEsperienza>2100.01.01</fineEsperienza>
+                    <Luogo>
+                        <via>N.S</via>
+                        <citta>Trieste</citta>
+                        <provincia>TS</provincia>
+                        <nazione>Italia</nazione>
+                    </Luogo>
+                    <descrizione>Preparazione e rifinitura dei dolci</descrizione>
+                </EsperienzaProfessionale>
+            </EsperienzeProfessionali>
+            <EsperienzeScolastiche>
+                <EsperienzaScolastica>
+                    <nomeScuola>Istituto di istruzione di Trieste</nomeScuola>
+                    <gradoScuola>Licenza media</gradoScuola>
+                    <titoloStudio>Licenza media</titoloStudio>
+                    <inizioEsperienza>2006.09.20</inizioEsperienza>
+                    <fineEsperienza>2009.08.20</fineEsperienza>
+                    <Luogo>
+                        <via>N.S</via>
+                        <citta>Trieste </citta>
+                        <provincia>TS</provincia>
+                        <nazione>Italia</nazione>
+                    </Luogo>
+                    <descrizione>valutazione conseguita: 7/10</descrizione>
+                </EsperienzaScolastica>
+            </EsperienzeScolastiche>
+            <AbilitaPossedute>
+                <Abilita>
+                    <nomeAbilita>Cucina gluten free</nomeAbilita>
+                    <descrizioneAbilita>Ottime conoscenze per la preparazione di cibi senza glutine.</descrizioneAbilita>
+                </Abilita>
+            </AbilitaPossedute>
+            <LingueParlate>
+                <Lingua>
+                    <nomeLingua>Croato</nomeLingua>
+                    <livelloCompetenzaLinguistica>Lingua madre</livelloCompetenzaLinguistica>
+                </Lingua>
+                <Lingua>
+                    <nomeLingua>Inglese</nomeLingua>
+                    <livelloCompetenzaLinguistica>A2</livelloCompetenzaLinguistica>
+                </Lingua>
+            </LingueParlate>
+        </UtenteBase>
+    </Utente>
+</Utenti>

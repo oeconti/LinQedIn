@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rete>
+    <Utente>
+        <username>elisa@gmail.com</username>
+        <Contatti>
+            <contatto>gabriele@virgilio.it</contatto>
+            <contatto>giovanni@gmail.com</contatto>
+            <contatto>lara@gmail.com</contatto>
+        </Contatti>
+    </Utente>
+    <Utente>
+        <username>filippo@libero.it</username>
+        <Contatti/>
+    </Utente>
+    <Utente>
+        <username>gabriele@virgilio.it</username>
+        <Contatti/>
+    </Utente>
+    <Utente>
+        <username>giorgia@gmail.com</username>
+        <Contatti/>
+    </Utente>
+    <Utente>
+        <username>giovanni@gmail.com</username>
+        <Contatti/>
+    </Utente>
+    <Utente>
+        <username>giulia@gmail.com</username>
+        <Contatti/>
+    </Utente>
+    <Utente>
+        <username>lara@gmail.com</username>
+        <Contatti/>
+    </Utente>
+    <Utente>
+        <username>luca@gmail.com</username>
+        <Contatti/>
+    </Utente>
+</Rete>
